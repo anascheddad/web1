@@ -1,7 +1,9 @@
 .BH
 {
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 25px;
+     justify-content: space-around;
+    
 }
 
 .KTABA
@@ -12,7 +14,9 @@
 .PG
 {
     display: flex;
-    
+     justify-content:space-between;
+    align-items: center;
+    gap: 5px;
 }
 
 .DIVTEL
@@ -44,6 +48,8 @@
 .navbar
 {
     display: flex;  
+    justify-content: space-between;
+    align-items: center;
 }
 
 .imgbnadem
@@ -61,3 +67,15 @@
 {
     display: flex;
 }
+ body {
+      background-color: lightblue; 
+    }
+
+    .parti2
+    {
+     width: 1300px;
+     height: 660px;
+     background-size:center ;
+     background-position: center ;
+     background-image: url(./image/font.png.png);
+    }
