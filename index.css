@@ -1,9 +1,63 @@
-.navbar{
-    width: 100%;
-    height: 200px;
-    background-color: red;
+.BH
+{
+    font-weight: bold;
+    font-size: 1.5rem;
 }
-body{
-    margin: 0;
-    padding: 0;
+
+.KTABA
+{
+    font-size: 1rem;
+}
+
+.PG
+{
+    display: flex;
+    
+}
+
+.DIVTEL
+{
+    display: flex;
+    
+}
+
+.list
+{
+    display: flex;
+}
+
+.tb
+{
+    width: 8px;   /* Relative (50% de la largeur du conteneur) */
+    height: 8px;
+    
+}
+
+.test
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+}
+
+.navbar
+{
+    display: flex;  
+}
+
+.imgbnadem
+{
+    width: 15px;   /* Relative (50% de la largeur du conteneur) */
+    height: 15px;
+}
+
+.PBNADEM
+{
+    display: flex;
+}
+
+.PD 
+{
+    display: flex;
 }
